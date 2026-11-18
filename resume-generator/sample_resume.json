@@ -1,0 +1,30 @@
+{
+  "name": "Nur Aina binti Hassan",
+  "title": "Operations Executive | Audit, Risk & Data Analytics",
+  "contact": ["Shah Alam, Selangor, Malaysia", "012-345 6789", "nur.aina@example.com"],
+  "summary": "Accounting graduate with 4 years of experience in audit, risk assessment and stakeholder coordination. Builds AI-assisted reporting workflows and dashboards to cut manual work, and communicates clearly with government and corporate stakeholders.",
+  "skills": [
+    ["Operations &amp; Coordination", "Work Planning, Progress Monitoring &amp; Reporting, Stakeholder Coordination, Process Improvement"],
+    ["Audit &amp; Risk", "Risk-Based Internal Audit, Internal Controls, Compliance Review"],
+    ["AI &amp; Data Tools", "AI-Assisted Workflows, Prompt Engineering, Power BI, Excel (Advanced), Python (basic)"],
+    ["Languages", "Bahasa Melayu (Native), English (Professional)"]
+  ],
+  "experience": [
+    {"role": "Executive, Operations", "org": "Example Public Agency", "dates": "Jan 2024 – Present", "bullets": [
+      "Coordinate project tracking and weekly status reporting for five workstreams",
+      "Use AI tools to draft reports, meeting agendas and terms of reference, cutting preparation time",
+      "Liaise with ministries, agencies and vendors to follow up on deliverables"]},
+    {"role": "Internal Auditor", "org": "Example Training Institute", "dates": "Jan 2022 – Dec 2023", "bullets": [
+      "Completed risk-based internal audits and follow-up reviews",
+      "Redesigned audit reporting templates and standardised documentation"]}
+  ],
+  "projects": [
+    {"name": "Automated Weekly Reporting", "org": "Personal project", "dates": "2025", "bullets": [
+      "Built an AI-assisted workflow that turns a project tracker into a one-page weekly report"]}
+  ],
+  "education": [
+    {"degree": "Bachelor of Accounting (Honours)", "school": "Example University", "year": "2021", "coursework": null}
+  ],
+  "certifications": [["Google Data Analytics Professional Certificate", "Google (Coursera), 2023"]],
+  "references": []
+}
